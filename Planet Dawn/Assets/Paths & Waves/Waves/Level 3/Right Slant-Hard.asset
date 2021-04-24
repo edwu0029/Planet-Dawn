@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17bd13c07435fdd46bfc734a9a4f9c87, type: 3}
+  m_Name: Right Slant-Hard
+  m_EditorClassIdentifier: 
+  pathPrefab: {fileID: 6853804835218830040, guid: 48a4de316e81081408ec2103ceeb3ebe,
+    type: 3}
+  enemyPrefab: {fileID: 8579202939401132455, guid: 5d40b6fca5bf12b478332b07b94d0f2c,
+    type: 3}
+  numEnemies: 3
+  moveSpeed: 3
+  timeBetweenSpawns: 1
+  shootDelayMin: 0.5
+  shootDelayMax: 1

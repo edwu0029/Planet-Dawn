@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17bd13c07435fdd46bfc734a9a4f9c87, type: 3}
+  m_Name: Wave-Striker(2)
+  m_EditorClassIdentifier: 
+  pathPrefab: {fileID: 678706066373193452, guid: c4f0479b6c493eb46b3d1c0ed09be0d4,
+    type: 3}
+  enemyPrefab: {fileID: 3236983876345991998, guid: ae239b1c4d2c62c4f94ad33b36c80d5f,
+    type: 3}
+  numEnemies: 1
+  moveSpeed: 10
+  timeBetweenSpawns: 0
+  shootDelayMin: 0.5
+  shootDelayMax: 2
