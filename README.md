@@ -10,3 +10,5 @@ Originally finished in December 2020.
 ## Credits
 Game Assets from [kenney.nl](https://www.kenney.nl/)
 Music from [Oblidivm](https://oblidivmmusic.blogspot.com/)
+
+Please note, this game was heavily inspired by a tutorial!
