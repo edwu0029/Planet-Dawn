@@ -3,8 +3,11 @@ A 2D space shooter game that uses the Unity game engine. Originally finished in 
 
 ## Installation & Usage
 Install the game zip file from [itch.io](https://jwed.itch.io/planet-dawn)
+
 Unzip/Extract the game files from the zip file
+
 Open the game's application file `Planet Dawn.exe`. This file is denoted by a blue icon.
+
 Have fun!
 
 ## Authors/Credits
