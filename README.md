@@ -1,5 +1,5 @@
 # Planet Dawn
-A 2D space shooter game that uses the Unity game engine. Originally finished in December 2020.
+A 2D space shooter game that uses the Unity game engine. Originally finished in February 2021.
 
 ## Installation & Usage
 Install the game zip file from [itch.io](https://jwed.itch.io/planet-dawn)
